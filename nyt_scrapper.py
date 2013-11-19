@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import bs4
 import json
 import requests
@@ -16,9 +14,12 @@ def scrap(url):
 		res.append({'title': title, 'author': author})
 	return res
 
-if __name__ == '__main__':
+def best_sellers():
 	res = []
 	res += scrap('http://www.nytimes.com/best-sellers-books/2013-11-24/combined-print-and-e-book-nonfiction/list.html')
 	res += scrap('http://www.nytimes.com/best-sellers-books/2013-11-24/combined-print-and-e-book-fiction/list.html')
-	with open('best_sellers.json', 'w') as f:
-		json.dump(res, f, indent='\t', separators=', ')
+	return res
+
+
+if __name__ == '__main__':
+	print(best_sellers())
