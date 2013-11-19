@@ -1,151 +1,181 @@
 [
     {
         "amazon-price": "2800", 
+        "itunes-price": 1099.0, 
         "author": "Charles Krauthammer", 
         "title": "THINGS THAT MATTER"
     }, 
     {
         "amazon-price": "2995", 
+        "itunes-price": 1299.0, 
         "author": "Mark Halperin and John Heilemann", 
         "title": "DOUBLE DOWN"
     }, 
     {
         "amazon-price": "2800", 
+        "itunes-price": 1099.0, 
         "author": "Bill O'Reilly and Martin Dugard", 
         "title": "KILLING JESUS"
     }, 
     {
         "amazon-price": "4000", 
+        "itunes-price": 1399.0, 
         "author": "Doris Kearns Goodwin", 
         "title": "THE BULLY PULPIT"
     }, 
     {
         "amazon-price": "2900", 
+        "itunes-price": 799.0, 
         "author": "Malcolm Gladwell", 
         "title": "DAVID AND GOLIATH"
     }, 
     {
         "amazon-price": "2795", 
+        "itunes-price": 1299.0, 
         "author": "Brian Kilmeade and Don Yaeger", 
         "title": "GEORGE WASHINGTON'S SECRET SIX"
     }, 
     {
         "amazon-price": "2600", 
+        "itunes-price": 999.0, 
         "author": "Malala Yousafzai with Christina Lamb", 
         "title": "I AM MALALA"
     }, 
     {
         "amazon-price": "2800", 
+        "itunes-price": 1499.0, 
         "author": "Henry Bushkin", 
         "title": "JOHNNY CARSON"
     }, 
     {
         "amazon-price": "2895", 
+        "itunes-price": 1299.0, 
         "author": "Pat Conroy", 
         "title": "THE DEATH OF SANTINI"
     }, 
     {
         "amazon-price": "699", 
+        "itunes-price": 99.0, 
         "author": "Solomon Northup", 
         "title": "TWELVE YEARS A SLAVE"
     }, 
     {
         "amazon-price": "1599", 
+        "itunes-price": 799.0, 
         "author": "Eben Alexander", 
         "title": "PROOF OF HEAVEN"
     }, 
     {
         "amazon-price": "1600", 
+        "itunes-price": 899.0, 
         "author": "Piper Kerman", 
         "title": "ORANGE IS THE NEW BLACK"
     }, 
     {
         "amazon-price": "2495", 
+        "itunes-price": 999.0, 
         "author": "Sheryl Sandberg with Nell Scovell", 
         "title": "LEAN IN"
     }, 
     {
         "amazon-price": "2895", 
+        "itunes-price": 1499.0, 
         "author": "Bill Bryson", 
         "title": "ONE SUMMER"
     }, 
     {
         "amazon-price": "2599", 
+        "itunes-price": 1099.0, 
         "author": "Elizabeth Smart with Chris Stewart", 
         "title": "MY STORY"
     }, 
     {
         "amazon-price": "2895", 
+        "itunes-price": 699.0, 
         "author": "John Grisham", 
         "title": "SYCAMORE ROW"
     }, 
     {
         "amazon-price": "2895", 
+        "itunes-price": 1299.0, 
         "author": "Clive Cussler with Jack Du Brul", 
         "title": "MIRAGE"
     }, 
     {
         "amazon-price": "799", 
+        "itunes-price": 399.0, 
         "author": "Orson Scott Card", 
         "title": "ENDER'S GAME"
     }, 
     {
         "amazon-price": "1700", 
+        "itunes-price": 499.0, 
         "author": "Nora Roberts", 
         "title": "DARK WITCH"
     }, 
     {
         "amazon-price": "1400", 
+        "itunes-price": 399.0, 
         "author": "J. A. Redmerski", 
         "title": "THE EDGE OF ALWAYS"
     }, 
     {
         "amazon-price": "2999", 
+        "itunes-price": 1199.0, 
         "author": "Amy Tan", 
         "title": "THE VALLEY OF AMAZEMENT"
     }, 
     {
         "amazon-price": "1500", 
+        "itunes-price": 699.0, 
         "author": "Katy Evans", 
         "title": "MINE"
     }, 
     {
         "amazon-price": "3000", 
+        "itunes-price": 799.0, 
         "author": "Donna Tartt", 
         "title": "THE GOLDFINCH"
     }, 
     {
         "amazon-price": "2700", 
+        "itunes-price": 1299.0, 
         "author": "Fannie Flagg", 
         "title": "THE ALL-GIRL FILLING STATION'S LAST REUNION"
     }, 
     {
         "amazon-price": "2595", 
+        "itunes-price": 599.0, 
         "author": "Liane Moriarty", 
         "title": "THE HUSBAND'S SECRET"
     }, 
     {
         "amazon-price": "2495", 
+        "itunes-price": 1099.0, 
         "author": "Alexander McCall Smith", 
         "title": "THE MINOR ADJUSTMENT BEAUTY SALON"
     }, 
     {
         "amazon-price": "2700", 
+        "itunes-price": 699.0, 
         "author": "Nicholas Sparks", 
         "title": "THE LONGEST RIDE"
     }, 
     {
         "amazon-price": "3000", 
+        "itunes-price": 799.0, 
         "author": "Stephen King", 
         "title": "DOCTOR SLEEP"
     }, 
     {
-        "amazon-price": null, 
+        "amazon-price": 634, 
+        "itunes-price": 99.0, 
         "author": "Dean Koontz", 
         "title": "WILDERNESS"
     }, 
     {
         "amazon-price": "999", 
+        "itunes-price": 999.0, 
         "author": "George R. R. Martin", 
         "title": "A DANCE WITH DRAGONS"
     }
