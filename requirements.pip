@@ -1,3 +1,4 @@
 requests>=0.1.0
 BeautifulSoup4
 python-amazon-product-api>=0.2.7
+python-itunes
