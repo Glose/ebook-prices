@@ -8,4 +8,8 @@ import json
 books = nyt_scrapper.best_sellers()
 books = amazon.prices(books)
 
-print(json.dumps(books, indent=4, separators=(', ', ': ')))
+res = json.dumps(books, indent=4, separators=(', ', ': '))
+
+with open('results.json', 'w') as f:
+	f.write(res)
+print(res)

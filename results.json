@@ -1,0 +1,152 @@
+[
+    {
+        "amazon-price": "2800", 
+        "author": "Charles Krauthammer", 
+        "title": "THINGS THAT MATTER"
+    }, 
+    {
+        "amazon-price": "2995", 
+        "author": "Mark Halperin and John Heilemann", 
+        "title": "DOUBLE DOWN"
+    }, 
+    {
+        "amazon-price": "2800", 
+        "author": "Bill O'Reilly and Martin Dugard", 
+        "title": "KILLING JESUS"
+    }, 
+    {
+        "amazon-price": "4000", 
+        "author": "Doris Kearns Goodwin", 
+        "title": "THE BULLY PULPIT"
+    }, 
+    {
+        "amazon-price": "2900", 
+        "author": "Malcolm Gladwell", 
+        "title": "DAVID AND GOLIATH"
+    }, 
+    {
+        "amazon-price": "2795", 
+        "author": "Brian Kilmeade and Don Yaeger", 
+        "title": "GEORGE WASHINGTON'S SECRET SIX"
+    }, 
+    {
+        "amazon-price": "2600", 
+        "author": "Malala Yousafzai with Christina Lamb", 
+        "title": "I AM MALALA"
+    }, 
+    {
+        "amazon-price": "2800", 
+        "author": "Henry Bushkin", 
+        "title": "JOHNNY CARSON"
+    }, 
+    {
+        "amazon-price": "2895", 
+        "author": "Pat Conroy", 
+        "title": "THE DEATH OF SANTINI"
+    }, 
+    {
+        "amazon-price": "699", 
+        "author": "Solomon Northup", 
+        "title": "TWELVE YEARS A SLAVE"
+    }, 
+    {
+        "amazon-price": "1599", 
+        "author": "Eben Alexander", 
+        "title": "PROOF OF HEAVEN"
+    }, 
+    {
+        "amazon-price": "1600", 
+        "author": "Piper Kerman", 
+        "title": "ORANGE IS THE NEW BLACK"
+    }, 
+    {
+        "amazon-price": "2495", 
+        "author": "Sheryl Sandberg with Nell Scovell", 
+        "title": "LEAN IN"
+    }, 
+    {
+        "amazon-price": "2895", 
+        "author": "Bill Bryson", 
+        "title": "ONE SUMMER"
+    }, 
+    {
+        "amazon-price": "2599", 
+        "author": "Elizabeth Smart with Chris Stewart", 
+        "title": "MY STORY"
+    }, 
+    {
+        "amazon-price": "2895", 
+        "author": "John Grisham", 
+        "title": "SYCAMORE ROW"
+    }, 
+    {
+        "amazon-price": "2895", 
+        "author": "Clive Cussler with Jack Du Brul", 
+        "title": "MIRAGE"
+    }, 
+    {
+        "amazon-price": "799", 
+        "author": "Orson Scott Card", 
+        "title": "ENDER'S GAME"
+    }, 
+    {
+        "amazon-price": "1700", 
+        "author": "Nora Roberts", 
+        "title": "DARK WITCH"
+    }, 
+    {
+        "amazon-price": "1400", 
+        "author": "J. A. Redmerski", 
+        "title": "THE EDGE OF ALWAYS"
+    }, 
+    {
+        "amazon-price": "2999", 
+        "author": "Amy Tan", 
+        "title": "THE VALLEY OF AMAZEMENT"
+    }, 
+    {
+        "amazon-price": "1500", 
+        "author": "Katy Evans", 
+        "title": "MINE"
+    }, 
+    {
+        "amazon-price": "3000", 
+        "author": "Donna Tartt", 
+        "title": "THE GOLDFINCH"
+    }, 
+    {
+        "amazon-price": "2700", 
+        "author": "Fannie Flagg", 
+        "title": "THE ALL-GIRL FILLING STATION'S LAST REUNION"
+    }, 
+    {
+        "amazon-price": "2595", 
+        "author": "Liane Moriarty", 
+        "title": "THE HUSBAND'S SECRET"
+    }, 
+    {
+        "amazon-price": "2495", 
+        "author": "Alexander McCall Smith", 
+        "title": "THE MINOR ADJUSTMENT BEAUTY SALON"
+    }, 
+    {
+        "amazon-price": "2700", 
+        "author": "Nicholas Sparks", 
+        "title": "THE LONGEST RIDE"
+    }, 
+    {
+        "amazon-price": "3000", 
+        "author": "Stephen King", 
+        "title": "DOCTOR SLEEP"
+    }, 
+    {
+        "amazon-price": null, 
+        "author": "Dean Koontz", 
+        "title": "WILDERNESS"
+    }, 
+    {
+        "amazon-price": "999", 
+        "author": "George R. R. Martin", 
+        "title": "A DANCE WITH DRAGONS"
+    }
+]

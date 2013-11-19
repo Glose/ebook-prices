@@ -14,5 +14,12 @@ api = API(locale='us')
 
 def prices(books):
 	for book in books:
-		book['price'] = 0
+		author = book['author'].split(' with ')[0]
+		for item in api.item_search('Books', Author=author, Title=book['title'], ResponseGroup='ItemAttributes'):
+			try:
+				book['amazon-price'] = item.ItemAttributes.ListPrice.Amount.text
+			except AttributeError:
+				print('No amazon price found for ' + book['title'])
+				book['amazon-price'] = None
+			break
 	return books
