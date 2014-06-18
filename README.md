@@ -1,37 +1,32 @@
 ebook-prices
 ============
 
-Compare Ebook prices from Kindle and iBooks
+Compare Ebook prices from iBookstore and Kindle to the Publisher-supplied prices
 
-| Book | Amazon price | iBooks price | Variation (% from Amazon to iBooks) |
+| Book | Publisher-supplied price | iBooks price | Kindle price |
 | ---- | ------------:| ------------:| ----:|
-| Things that matter | $12.81 | $10.99 | -14.2 |
-| Double down | $21.79 | $12.99 | -40.4 |
-| Killing jesus | $17.53 | $10.99 | -37.3 |
-| The bully pulpit | $21.58 | $13.99 | -35.2 |
-| David and goliath | $14.83 | $7.99 | -46.1 |
-| George washington's secret six | $20.35 | $12.99 | -36.2 |
-| I am malala | $17.53 | $9.99 | -43.0 |
-| Johnny carson | $17.03 | $14.99 | -12.0 |
-| The death of santini | $14.83 | $12.99 | -12.4 |
-| Twelve years a slave | $3.08 | $0.99 | -67.9 |
-| Proof of heaven | $11.46 | $7.99 | -30.3 |
-| Orange is the new black | $8.76 | $8.99 | 2.63 |
-| Lean in | $13.14 | $9.99 | -24.0 |
-| One summer | $20.3 | $14.99 | -26.2 |
-| My story | $17.53 | $10.99 | -37.3 |
-| Sycamore row | $17.53 | $6.99 | -60.1 |
-| Mirage | $21.08 | $12.99 | -38.4 |
-| Ender's game | $6.33 | $3.99 | -37.0 |
-| Dark witch | $12.2 | $4.99 | -59.1 |
-| The edge of always | $7.35 | $3.99 | -45.7 |
-| The valley of amazement | $10.92 | $11.99 | 9.8 |
-| Mine | $6.55 | $6.99 | 6.72 |
-| The goldfinch | $17.53 | $7.99 | -54.4 |
-| The all-girl filling station's last reunion | $13.07 | $12.99 | -0.612 |
-| The husband's secret | $7.73 | $5.99 | -22.5 |
-| The minor adjustment beauty salon | $14.83 | $10.99 | -25.9 |
-| The longest ride | $14.83 | $6.99 | -52.9 |
-| Doctor sleep | $17.53 | $7.99 | -54.4 |
-| Wilderness | $0.66 | $0.99 | 50.0 |
-| A dance with dragons | $7.21 | $9.99 | 38.6 |
+| Invisible | 14.99 | 9.99 | 17.59 |
+| The Silkworm  | 14.99 | 9.99 | 17.59 |
+| The Girls of August | 12.99 | 9.99 | n/a |
+| California | 12.99 | 9.99 | 13.53 |
+| Mean Streak | 12.99 | 9.99 | 8.79 |
+| It's in His Kiss | 5.99 | 4.99 | 7.50 |
+| The Burning Room | 14.99 | 9.99 | 18.94 |
+| The Lost Island | 12.99 | 9.99 | n/a |
+| Private Down Under | 2.99 | 9.99 | 8.14 |
+| Winter Street | 12.99 | 9.99 | n/a |
+| The Escape | 14.99 | 9.99 | n/a |
+| The Land of Stories | 7.99 | 9.99 | n/a |
+| The Broken Eye | 12.99 | 9.99 | n/a |
+| Blue Labyrinth | 12.99 | 9.99 | n/a |
+| Hope to Die | 14.99 | 9.99 | 20.37 |
+| The Best of Me | 7.99 | 9.99 | n/a |
+| The Competition | 12.99 | 9.99 | 14.88 |
+| Vampires of Manhattan | 12.99 | 9.99 | n/a |
+| Inside Man | 12.99 | 9.99 | 12.17 |
+| Burn | 14.99 | 9.99 | 19.52 |
+| A.D. 30 | 12.99 | 9.99 | n/a |
+| The David Foster Wallace Reader | 16.98 | 9.99 | n/a |
+| Spoiled Brats | 12.99 | 9.99 | 15.01 |
+| The Art of Asking | 12.99 | 9.99 | n/a |
+| Gus & Me | 9.99 | 9.99 | n/a |
