@@ -1,182 +1,302 @@
 [
     {
-        "amazon-price": 1281, 
-        "itunes-price": 1099.0, 
-        "author": "Charles Krauthammer", 
-        "title": "THINGS THAT MATTER"
-    }, 
+        "asin": "B00CK8CLDY",
+        "amazon_": "$14.93",
+        "author": "Charles Krauthammer",
+        "title": "Things that matter",
+        "variation": "-19.7",
+        "itunes": 11.99,
+        "amazon": 14.93,
+        "itunes_id": 673656077
+    },
     {
-        "amazon-price": 2179, 
-        "itunes-price": 1299.0, 
-        "author": "Mark Halperin and John Heilemann", 
-        "title": "DOUBLE DOWN"
-    }, 
+        "asin": "B00C5R7EE6",
+        "amazon_": "$9.75",
+        "author": "Mark Halperin",
+        "title": "Double down",
+        "variation": "-18.1",
+        "itunes": 7.99,
+        "amazon": 9.75,
+        "itunes_id": 630804921
+    },
     {
-        "amazon-price": 1753, 
-        "itunes-price": 1099.0, 
-        "author": "Bill O'Reilly and Martin Dugard", 
-        "title": "KILLING JESUS"
-    }, 
+        "asin": "B00BIOG1ZU",
+        "amazon_": "$12.48",
+        "author": "Bill O'Reilly",
+        "title": "Killing jesus",
+        "variation": "-20.0",
+        "itunes": 9.99,
+        "amazon": 12.48,
+        "itunes_id": 606012301
+    },
     {
-        "amazon-price": 2158, 
-        "itunes-price": 1399.0, 
-        "author": "Doris Kearns Goodwin", 
-        "title": "THE BULLY PULPIT"
-    }, 
+        "asin": "B00BAWHPX2",
+        "amazon_": "$15.76",
+        "author": "Doris Kearns Goodwin",
+        "title": "The bully pulpit",
+        "variation": "-36.6",
+        "itunes": 9.99,
+        "amazon": 15.76,
+        "itunes_id": 599693588
+    },
     {
-        "amazon-price": 1483, 
-        "itunes-price": 799.0, 
-        "author": "Malcolm Gladwell", 
-        "title": "DAVID AND GOLIATH"
-    }, 
+        "asin": "B00BAXFAOW",
+        "amazon_": "$7.98",
+        "author": "Malcolm Gladwell",
+        "title": "David and goliath",
+        "variation": "62.8",
+        "itunes": 12.99,
+        "amazon": 7.98,
+        "itunes_id": 599651578
+    },
     {
-        "amazon-price": 2035, 
-        "itunes-price": 1299.0, 
-        "author": "Brian Kilmeade and Don Yaeger", 
-        "title": "GEORGE WASHINGTON'S SECRET SIX"
-    }, 
+        "asin": "B00C5R7FP4",
+        "amazon_": "$9.95",
+        "author": "Brian Kilmeade",
+        "title": "George washington's secret six",
+        "variation": "-19.7",
+        "itunes": 7.99,
+        "amazon": 9.95,
+        "itunes_id": 630802613
+    },
     {
-        "amazon-price": 1753, 
-        "itunes-price": 999.0, 
-        "author": "Malala Yousafzai with Christina Lamb", 
-        "title": "I AM MALALA"
-    }, 
+        "asin": "B00CH3DBNQ",
+        "amazon_": "$6.21",
+        "author": "Malala Yousafzai",
+        "title": "I am malala",
+        "variation": "77.0",
+        "itunes": 10.99,
+        "amazon": 6.21,
+        "itunes_id": 639647934
+    },
     {
-        "amazon-price": 1703, 
-        "itunes-price": 1499.0, 
-        "author": "Henry Bushkin", 
-        "title": "JOHNNY CARSON"
-    }, 
+        "asin": "B00CICPU4O",
+        "amazon_": "$10.31",
+        "author": "Henry Bushkin",
+        "title": "Johnny carson",
+        "variation": "-22.5",
+        "itunes": 7.99,
+        "amazon": 10.31,
+        "itunes_id": 627576710
+    },
     {
-        "amazon-price": 1483, 
-        "itunes-price": 1299.0, 
-        "author": "Pat Conroy", 
-        "title": "THE DEATH OF SANTINI"
-    }, 
+        "asin": "B00CNQ7MJG",
+        "amazon_": "$14.93",
+        "author": "Pat Conroy",
+        "title": "The death of santini",
+        "variation": "-33.1",
+        "itunes": 9.99,
+        "amazon": 14.93,
+        "itunes_id": 697997653
+    },
     {
-        "amazon-price": 308, 
-        "itunes-price": 99.0, 
-        "author": "Solomon Northup", 
-        "title": "TWELVE YEARS A SLAVE"
-    }, 
+        "asin": "B00FDS85EM",
+        "amazon_": "NA",
+        "author": "Solomon Northup",
+        "title": "Twelve years a slave",
+        "variation": "NA",
+        "itunes": 0.99,
+        "amazon": null,
+        "itunes_id": 665685587
+    },
     {
-        "amazon-price": 1146, 
-        "itunes-price": 799.0, 
-        "author": "Eben Alexander", 
-        "title": "PROOF OF HEAVEN"
-    }, 
+        "asin": "B008AK8FHM",
+        "amazon_": "$10.75",
+        "author": "Eben Alexander",
+        "title": "Proof of heaven",
+        "variation": "-25.7",
+        "itunes": 7.99,
+        "amazon": 10.75,
+        "itunes_id": 535113920
+    },
     {
-        "amazon-price": 876, 
-        "itunes-price": 899.0, 
-        "author": "Piper Kerman", 
-        "title": "ORANGE IS THE NEW BLACK"
-    }, 
+        "asin": "B0036S4B6M",
+        "amazon_": "$8.71",
+        "author": "Piper Kerman",
+        "title": "Orange is the new black",
+        "variation": "-31.2",
+        "itunes": 5.99,
+        "amazon": 8.71,
+        "itunes_id": 419946028
+    },
     {
-        "amazon-price": 1314, 
-        "itunes-price": 999.0, 
-        "author": "Sheryl Sandberg with Nell Scovell", 
-        "title": "LEAN IN"
-    }, 
+        "asin": "B009LMTDL0",
+        "amazon_": "$16.18",
+        "author": "Sheryl Sandberg",
+        "title": "Lean in",
+        "variation": "-69.2",
+        "itunes": 4.99,
+        "amazon": 16.18,
+        "itunes_id": 568099670
+    },
     {
-        "amazon-price": 2030, 
-        "itunes-price": 1499.0, 
-        "author": "Bill Bryson", 
-        "title": "ONE SUMMER"
-    }, 
+        "asin": "B00C8S9VKM",
+        "amazon_": "$8.77",
+        "author": "Bill Bryson",
+        "title": "One summer",
+        "variation": "2.51",
+        "itunes": 8.99,
+        "amazon": 8.77,
+        "itunes_id": 640427447
+    },
     {
-        "amazon-price": 1753, 
-        "itunes-price": 1099.0, 
-        "author": "Elizabeth Smart with Chris Stewart", 
-        "title": "MY STORY"
-    }, 
+        "asin": "B00C74VCIG",
+        "amazon_": "$10.24",
+        "author": "Elizabeth Smart",
+        "title": "My story",
+        "variation": "-2.44",
+        "itunes": 9.99,
+        "amazon": 10.24,
+        "itunes_id": 639380571
+    },
     {
-        "amazon-price": 1753, 
-        "itunes-price": 699.0, 
-        "author": "John Grisham", 
-        "title": "SYCAMORE ROW"
-    }, 
+        "asin": "B00CNQ7HAU",
+        "amazon_": "$7.47",
+        "author": "John Grisham",
+        "title": "Sycamore row",
+        "variation": "-6.43",
+        "itunes": 6.99,
+        "amazon": 7.47,
+        "itunes_id": 640426589
+    },
     {
-        "amazon-price": 2108, 
-        "itunes-price": 1299.0, 
-        "author": "Clive Cussler with Jack Du Brul", 
-        "title": "MIRAGE"
-    }, 
+        "asin": "B00AYJIJF0",
+        "amazon_": "$7.96",
+        "author": "Clive Cussler",
+        "title": "Mirage",
+        "variation": "0.377",
+        "itunes": 7.99,
+        "amazon": 7.96,
+        "itunes_id": 592223345
+    },
     {
-        "amazon-price": 633, 
-        "itunes-price": 399.0, 
-        "author": "Orson Scott Card", 
-        "title": "ENDER'S GAME"
-    }, 
+        "asin": "B003G4W49C",
+        "amazon_": "$6.44",
+        "author": "Orson Scott Card",
+        "title": "Ender's game",
+        "variation": "-38.0",
+        "itunes": 3.99,
+        "amazon": 6.44,
+        "itunes_id": 378317492
+    },
     {
-        "amazon-price": 1220, 
-        "itunes-price": 499.0, 
-        "author": "Nora Roberts", 
-        "title": "DARK WITCH"
-    }, 
+        "asin": "B00BC25992",
+        "amazon_": "$11.57",
+        "author": "Nora Roberts",
+        "title": "Dark witch",
+        "variation": "-13.7",
+        "itunes": 9.99,
+        "amazon": 11.57,
+        "itunes_id": 600608019
+    },
     {
-        "amazon-price": 735, 
-        "itunes-price": 399.0, 
-        "author": "J. A. Redmerski", 
-        "title": "THE EDGE OF ALWAYS"
-    }, 
+        "asin": "B00BOTU4E8",
+        "amazon_": "$4.01",
+        "author": "J. A. Redmerski",
+        "title": "The edge of always",
+        "variation": "-0.499",
+        "itunes": 3.99,
+        "amazon": 4.01,
+        "itunes_id": 613234417
+    },
     {
-        "amazon-price": 1092, 
-        "itunes-price": 1199.0, 
-        "author": "Amy Tan", 
-        "title": "THE VALLEY OF AMAZEMENT"
-    }, 
+        "asin": "B00BATG18K",
+        "amazon_": "$8.1",
+        "author": "Amy Tan",
+        "title": "The valley of amazement",
+        "variation": "23.3",
+        "itunes": 9.99,
+        "amazon": 8.1,
+        "itunes_id": 599841465
+    },
     {
-        "amazon-price": 655, 
-        "itunes-price": 699.0, 
-        "author": "Katy Evans", 
-        "title": "MINE"
-    }, 
+        "asin": "B00D0MZXCA",
+        "amazon_": "$7.46",
+        "author": "Katy Evans",
+        "title": "Mine",
+        "variation": "-6.3",
+        "itunes": 6.99,
+        "amazon": 7.46,
+        "itunes_id": 654456381
+    },
     {
-        "amazon-price": 1753, 
-        "itunes-price": 799.0, 
-        "author": "Donna Tartt", 
-        "title": "THE GOLDFINCH"
-    }, 
+        "asin": "B00BAXFECK",
+        "amazon_": "$7.46",
+        "author": "Donna Tartt",
+        "title": "The goldfinch",
+        "variation": "-6.3",
+        "itunes": 6.99,
+        "amazon": 7.46,
+        "itunes_id": 599669207
+    },
     {
-        "amazon-price": 1307, 
-        "itunes-price": 1299.0, 
-        "author": "Fannie Flagg", 
-        "title": "THE ALL-GIRL FILLING STATION'S LAST REUNION"
-    }, 
+        "asin": "B00CQZ6EKW",
+        "amazon_": "$12.68",
+        "author": "Fannie Flagg",
+        "title": "The all-girl filling station's last reunion",
+        "variation": "-29.1",
+        "itunes": 8.99,
+        "amazon": 12.68,
+        "itunes_id": 647884156
+    },
     {
-        "amazon-price": 773, 
-        "itunes-price": 599.0, 
-        "author": "Liane Moriarty", 
-        "title": "THE HUSBAND'S SECRET"
-    }, 
+        "asin": "B00D7Z4GQY",
+        "amazon_": "$7.63",
+        "author": "Liane Moriarty",
+        "title": "The husband's secret",
+        "variation": "30.9",
+        "itunes": 9.99,
+        "amazon": 7.63,
+        "itunes_id": 658681126
+    },
     {
-        "amazon-price": 1483, 
-        "itunes-price": 1099.0, 
-        "author": "Alexander McCall Smith", 
-        "title": "THE MINOR ADJUSTMENT BEAUTY SALON"
-    }, 
+        "asin": "B00CQZ5NZO",
+        "amazon_": "$7.46",
+        "author": "Alexander McCall Smith",
+        "title": "The minor adjustment beauty salon",
+        "variation": "60.7",
+        "itunes": 11.99,
+        "amazon": 7.46,
+        "itunes_id": 647811004
+    },
     {
-        "amazon-price": 1483, 
-        "itunes-price": 699.0, 
-        "author": "Nicholas Sparks", 
-        "title": "THE LONGEST RIDE"
-    }, 
+        "asin": "B00BOTU42A",
+        "amazon_": "$8.08",
+        "author": "Nicholas Sparks",
+        "title": "The longest ride",
+        "variation": "-1.11",
+        "itunes": 7.99,
+        "amazon": 8.08,
+        "itunes_id": 613228526
+    },
     {
-        "amazon-price": 1753, 
-        "itunes-price": 799.0, 
-        "author": "Stephen King", 
-        "title": "DOCTOR SLEEP"
-    }, 
+        "asin": "B00A6CCF0K",
+        "amazon_": "$7.46",
+        "author": "Stephen King",
+        "title": "Doctor sleep",
+        "variation": "74.1",
+        "itunes": 12.99,
+        "amazon": 7.46,
+        "itunes_id": 576514768
+    },
     {
-        "amazon-price": 66, 
-        "itunes-price": 99.0, 
-        "author": "Dean Koontz", 
-        "title": "WILDERNESS"
-    }, 
+        "asin": "B00FO60HTO",
+        "amazon_": "$1.0",
+        "author": "Dean Koontz",
+        "title": "Wilderness",
+        "variation": "-1.0",
+        "itunes": 0.99,
+        "amazon": 1.0,
+        "itunes_id": 721430322
+    },
     {
-        "amazon-price": 721, 
-        "itunes-price": 999.0, 
-        "author": "George R. R. Martin", 
-        "title": "A DANCE WITH DRAGONS"
+        "asin": "B003YL4LYI",
+        "amazon_": "$7.16",
+        "author": "George R. R. Martin",
+        "title": "A dance with dragons",
+        "variation": "-30.3",
+        "itunes": 4.99,
+        "amazon": 7.16,
+        "itunes_id": 424007351
     }
 ]
